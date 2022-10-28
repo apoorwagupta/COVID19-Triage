@@ -23,33 +23,29 @@ The patient's data and health status can be inserted and modified by management 
 
 ## HOW TO SETUP THIS WEBSITE LOCALLY:
 
-                 - Clone repository using  $ git clone  (idhar apne repo ka daal de)
-                 - Setup virtual environment(We used Anaconda)
-                 - The current working directory should be set in the downloaded folder using 'cd' command.
-                 - On command line, Exceute `pip install -r requirements.txt`.
-                 - Run `python manage.py runserver` in the folder where manage.py is located
-                 - Add your own superuser by 'create superuser' and enter your desired credentials.
-                 - Go to `127.0.0.1::8000` in your web browser.
+ - Clone repository using  $ git clone  (idhar apne repo ka daal de)
+ - Setup virtual environment(We used Anaconda)
+ - The current working directory should be set in the downloaded folder using 'cd' command.
+ - On command line, Exceute `pip install -r requirements.txt`.
+ - Run `python manage.py runserver` in the folder where manage.py is located
+ - Add your own superuser by 'create superuser' and enter your desired credentials.
+ - Go to `127.0.0.1::8000` in your web browser.
                  
 
 ## FOR MODIFYING THE WEBSITE:
-                -  Change the template folder for adding your own html and css files.
-                -  Modify  the static folder if you want to add your own images/txt etc.
-                -  Run the  commands ``` python manage.py make migrations ``` and ``` python manage.py migrate ``` after you do any changes in models.
-  
- 
-
+ -  Change the template folder for adding your own html and css files.
+ -  Modify  the static folder if you want to add your own images/txt etc.
+ -  Run the  commands ``` python manage.py make migrations ``` and ``` python manage.py migrate ``` after you do any changes in models
 
  
 ## FEATURES:
  
 The website will contain publishable and documented code right away, as well as all of the following features:
 
-             -Organized folders.
-             - Each file is commented line by line for easier understanding of  various functions, keeping in mind the official Django documentation.
-             - Interesting graphics with color coordinated bed availability system.
-             - A Complete database is provided with the staff,nurse,doctor, bed details.
- 
+ -Organized folders.
+ - Each file is commented line by line for easier understanding of  various functions, keeping in mind the official Django documentation.
+ - Interesting graphics with color coordinated bed availability system.
+ - A Complete database is provided with the staff,nurse,doctor, bed details
 
 ## Acknowledgements
 
