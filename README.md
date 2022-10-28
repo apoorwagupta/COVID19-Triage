@@ -42,7 +42,7 @@ The patient's data and health status can be inserted and modified by management 
  
 The website will contain publishable and documented code right away, as well as all of the following features:
 
- -Organized folders.
+ - Organized folders.
  - Each file is commented line by line for easier understanding of  various functions, keeping in mind the official Django documentation.
  - Interesting graphics with color coordinated bed availability system.
  - A Complete database is provided with the staff,nurse,doctor, bed details
