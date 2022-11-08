@@ -55,19 +55,19 @@ The website will contain publishable and documented code right away, as well as 
 
 ![Screenshot](https://github.com/apoorwagupta/COVID19-Triage/blob/main/Screenshots/Info.png)
 
- -Login Page:
+ - Login Page:
 
 ![Screenshot](https://github.com/apoorwagupta/COVID19-Triage/blob/main/Screenshots/Login.png)
 
- -Patient List:
+ - Patient List:
 
 ![Screenshot](https://github.com/apoorwagupta/COVID19-Triage/blob/main/Screenshots/Patient-List.png)
 
- -Patient form:
+ - Patient form:
 
  ![Screenshot](https://github.com/apoorwagupta/COVID19-Triage/blob/main/Screenshots/Patient_Form.png)
 
- -Patient Overview:
+ - sPatient Overview:
 
  ![Screenshot](https://github.com/apoorwagupta/COVID19-Triage/blob/main/Screenshots/Patient_Overview.png)
  
