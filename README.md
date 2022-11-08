@@ -46,8 +46,20 @@ The website will contain publishable and documented code right away, as well as 
  - Interesting graphics with color coordinated bed availability system.
  - A Complete database is provided with the staff,nurse,doctor, bed details.
 
-## SCREENSHOTS
-![Screenshot](DashBoard.png)
+## SCREENSHOTS:
+
+ - Dashboard: 
+![Screenshot]("https://github.com/apoorwagupta/COVID19-Triage/blob/main/Screenshots/DashBoard.png")
+ - Main Information Page:
+![Screenshot]("https://github.com/apoorwagupta/COVID19-Triage/blob/main/Screenshots/Info.png")
+ -Login Page:
+![Screenshot]("https://github.com/apoorwagupta/COVID19-Triage/blob/main/Screenshots/Login.png")
+ -Patient List:
+![Screenshot]("https://github.com/apoorwagupta/COVID19-Triage/blob/main/Screenshots/Patient-List.png")
+ -Patient form:
+ ![Screenshot]("https://github.com/apoorwagupta/COVID19-Triage/blob/main/Screenshots/Patient_Form.png")
+ -Patient Overview:
+ ![Screenshot]("https://github.com/apoorwagupta/COVID19-Triage/blob/main/Screenshots/Patient_Overview.png")
 
 ## Acknowledgements
 
