@@ -20,10 +20,9 @@ The patient's data and health status can be inserted and modified by management 
                     - SQLite
 
 
-
 ## HOW TO SETUP THIS WEBSITE LOCALLY:
 
- - Clone repository using  $ git clone  (idhar apne repo ka daal de)
+ - Clone repository using  $ git clone  https://github.com/apoorwagupta/COVID19-Triage
  - Setup virtual environment(We used Anaconda)
  - The current working directory should be set in the downloaded folder using 'cd' command.
  - On command line, Exceute `pip install -r requirements.txt`.
@@ -45,7 +44,10 @@ The website will contain publishable and documented code right away, as well as 
  - Organized folders.
  - Each file is commented line by line for easier understanding of  various functions, keeping in mind the official Django documentation.
  - Interesting graphics with color coordinated bed availability system.
- - A Complete database is provided with the staff,nurse,doctor, bed details
+ - A Complete database is provided with the staff,nurse,doctor, bed details.
+
+## SCREENSHOTS
+![Screenshot](DashBoard.png)
 
 ## Acknowledgements
 
