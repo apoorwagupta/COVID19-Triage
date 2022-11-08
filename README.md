@@ -49,9 +49,8 @@ The website will contain publishable and documented code right away, as well as 
 ## SCREENSHOTS:
 
  - Dashboard: 
- DashBoard.png
 
-![Screenshot]("https://github.com/apoorwagupta/COVID19-Triage/blob/main/Screenshots/DashBoard.png")
+![Screenshot](https://github.com/apoorwagupta/COVID19-Triage/blob/main/Screenshots/DashBoard.png)
  - Main Information Page:
 
 ![Screenshot]("https://github.com/apoorwagupta/COVID19-Triage/blob/main/Screenshots/Info.png")
