@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+}
+
+
+.land {
+  height: 100vh;
+}
+.land img {
+  width: 100%;
+  position: absolute;
+  height: 110vh;
+  object-fit: cover;
+  z-index: -1;
+}
+.main-title {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  font-size: 5rem;
+  transform: translate(-50%, -30%);
+  background-color: rgba(56, 2, 2, 0.178);
+  
+  
+  background-blend-mode: soft-light ;
+
+}
+.test12345
+{
+  float: right;
+  
+}
+.content {
+  width: 100%;
+  background: rgb(15, 0, 20);
+  background-image: linear-gradient( to bottom, #230136,#31012b);
+  min-height: 70vh;
+  z-index: 2;
+  position: absolute;
+}
+
+.h1{
+  font-size: 48px;
+}
+
+.content2 {
+  width: 100%;
+  background: rgb(15, 0, 20);
+  min-height: 30vh;
+  
+  position:relative;
+}
+.content-images {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 30vh;
+  text-align: center;
+}
+.girl
+{
+  padding-left: 75px ;
+}
+.text {
+  padding: 2rem 10rem;
+  font-size: 1.1rem;
+  
+}
+.rock
+{
+  opacity: .60;
+  mix-blend-mode:multiply;
+}
