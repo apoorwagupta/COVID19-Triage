@@ -21,7 +21,7 @@ class Patient(models.Model):
         ('Chest pain or pressure', 'Chest pain or pressure'),
         ('Loss of speech or movement', 'Loss of speech or movement'),
     )
-
+ #cascadt means that when the referenced object is deleted, all related objects that have a foreign key reference to it will also be deleted, cascading the deletion throughout the related objects.
     symptoms = MultiSelectField(choices=SYMPTOMS, null=True) # multiselect field to choose more than one choices.
     prior_ailments = models.TextField() #used to store large texts
     bed_num = models.ForeignKey("Bed", on_delete=models.CASCADE) # associating the bednum field with the bed model.
